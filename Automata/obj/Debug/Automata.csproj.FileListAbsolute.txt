@@ -1,0 +1,104 @@
+C:\Users\HP\source\repos\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\HP\source\repos\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\HP\source\repos\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\HP\source\repos\Automata\Automata\obj\Debug\Automata.pdb
+C:\Users\Eduardo\Downloads\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\Eduardo\Downloads\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\Eduardo\Downloads\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\Eduardo\Downloads\Automata\Automata\obj\Debug\Automata.pdb
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\Eduardo Quintana\Downloads\Automata\Automata\obj\Debug\Automata.pdb
+D:\Automata (2)\Automata\Automata\bin\Debug\Automata.exe.config
+D:\Automata (2)\Automata\Automata\bin\Debug\Automata.exe
+D:\Automata (2)\Automata\Automata\bin\Debug\Automata.pdb
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.csproj.SuggestedBindingRedirects.cache
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.Form1.resources
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.exe
+D:\Automata (2)\Automata\Automata\obj\Debug\Automata.pdb
+G:\C# Victor\01E\Automata\Automata\bin\Debug\Automata.exe.config
+G:\C# Victor\01E\Automata\Automata\bin\Debug\Automata.exe
+G:\C# Victor\01E\Automata\Automata\bin\Debug\Automata.pdb
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.Form1.resources
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.exe
+G:\C# Victor\01E\Automata\Automata\obj\Debug\Automata.pdb
+E:\C#\Automata\Automata\bin\Debug\Automata.exe.config
+E:\C#\Automata\Automata\bin\Debug\Automata.exe
+E:\C#\Automata\Automata\bin\Debug\Automata.pdb
+E:\C#\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+E:\C#\Automata\Automata\obj\Debug\Automata.Form1.resources
+E:\C#\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+E:\C#\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+E:\C#\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+E:\C#\Automata\Automata\obj\Debug\Automata.exe
+E:\C#\Automata\Automata\obj\Debug\Automata.pdb
+C:\Users\vicom\Desktop\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\vicom\Desktop\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\vicom\Desktop\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\vicom\Desktop\Automata\Automata\obj\Debug\Automata.pdb
+C:\Users\vicom\Desktop\AutomataFinal\Automata\bin\Debug\Automata.exe.config
+C:\Users\vicom\Desktop\AutomataFinal\Automata\bin\Debug\Automata.exe
+C:\Users\vicom\Desktop\AutomataFinal\Automata\bin\Debug\Automata.pdb
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.exe
+C:\Users\vicom\Desktop\AutomataFinal\Automata\obj\Debug\Automata.pdb
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\bin\Debug\Automata.exe.config
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\bin\Debug\Automata.exe
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\bin\Debug\Automata.pdb
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.exe
+C:\Users\vicom\Dropbox\Tecnologico\Semestre 7\Lenguaje Y Autómatas II\Este es el final\AutomataFinal\Automata\obj\Debug\Automata.pdb
+D:\AutomataFinal\Automata\bin\Debug\Automata.exe.config
+D:\AutomataFinal\Automata\bin\Debug\Automata.exe
+D:\AutomataFinal\Automata\bin\Debug\Automata.pdb
+D:\AutomataFinal\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+D:\AutomataFinal\Automata\obj\Debug\Automata.Form1.resources
+D:\AutomataFinal\Automata\obj\Debug\Automata.Properties.Resources.resources
+D:\AutomataFinal\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+D:\AutomataFinal\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+D:\AutomataFinal\Automata\obj\Debug\Automata.exe
+D:\AutomataFinal\Automata\obj\Debug\Automata.pdb

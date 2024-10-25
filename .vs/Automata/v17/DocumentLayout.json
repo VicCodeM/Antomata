@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AutomataFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F9768B-19F2-4FB3-9C25-782F68489AD8}|Automata\\Automata.csproj|D:\\AutomataFinal\\automata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F9768B-19F2-4FB3-9C25-782F68489AD8}|Automata\\Automata.csproj|solutionrelative:automata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F9768B-19F2-4FB3-9C25-782F68489AD8}|Automata\\Automata.csproj|d:\\automatafinal\\automata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F9768B-19F2-4FB3-9C25-782F68489AD8}|Automata\\Automata.csproj|solutionrelative:automata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F9768B-19F2-4FB3-9C25-782F68489AD8}|Automata\\Automata.csproj|D:\\AutomataFinal\\automata\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F9768B-19F2-4FB3-9C25-782F68489AD8}|Automata\\Automata.csproj|solutionrelative:automata\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\AutomataFinal\\Automata\\Token.cs",
+              "RelativeDocumentMoniker": "Automata\\Token.cs",
+              "ToolTip": "D:\\AutomataFinal\\Automata\\Token.cs",
+              "RelativeToolTip": "Automata\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T15:57:50.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AutomataFinal\\Automata\\Form1.cs",
+              "RelativeDocumentMoniker": "Automata\\Form1.cs",
+              "ToolTip": "D:\\AutomataFinal\\Automata\\Form1.cs",
+              "RelativeToolTip": "Automata\\Form1.cs",
+              "ViewState": "AgIAALcBAAAAzszMzMwpwPMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T15:57:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\AutomataFinal\\Automata\\Form1.cs",
+              "RelativeDocumentMoniker": "Automata\\Form1.cs",
+              "ToolTip": "D:\\AutomataFinal\\Automata\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Automata\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T15:57:50.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
